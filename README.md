@@ -4,7 +4,7 @@ This project compares the environmental impact of a reusable stainless steel wat
 ### Methodology:
 - LCA structured by ISO 14040/14044
 - Region: Germany (Bavaria)
-- Tools: Excel, emissions factors from Ecoinvent, PlasticsEurope
+- Tools: Excel, emissions factors from ELCD, PlasticsEurope
 
 ### Results:
 - Reusable bottle: ~91% lower CO₂ impact than PET bottles
